@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIBI - Sistema de Inventario de Bienes Institucionales</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('fondo.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+        .login-container {
+            width: 400px;
+            background-color: #e5e5d1;
+            margin: 100px auto;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            text-align: center;
+            border: 5px solid #4CAF50;
+        }
+        .login-container h1 {
+            color: #4CAF50;
+        }
+        .login-container img {
+            width: 150px;
+            margin-bottom: 20px;
+        }
+        .login-container input[type="email"], 
+        .login-container input[type="password"] {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 1em;
+        }
+        .login-container input[type="submit"] {
+            background-color: #FFEB3B;
+            color: black;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1em;
+            cursor: pointer;
+        }
+        .login-container a {
+            display: block;
+            margin-top: 10px;
+            color: #333;
+            text-decoration: none;
+            font-size: 0.9em;
+        }
+        .login-container a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <h1>SIBI</h1>
+        <p>Sistema de Inventario de Bienes Institucionales</p>
+        <img src="escudo.png" alt="Escudo Ocaña"> <!-- Cambia 'escudo.png' por el nombre de tu archivo de escudo -->
+        <form>
+            <input type="email" placeholder="admin@admin.com" required><br>
+            <input type="password" placeholder="*******" required><br>
+            <input type="submit" value="Acceder">
+        </form>
+        <a href="#">¿Olvidaste tu contraseña?</a>
+    </div>
+</body>
+</html>

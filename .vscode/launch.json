@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ElementosPares",
+            "request": "launch",
+            "mainClass": "ElementosPares",
+            "projectName": "Programacion_ad141632"
+        },
+        {
+            "type": "java",
+            "name": "juegoPelea",
+            "request": "launch",
+            "mainClass": "juegoPelea",
+            "projectName": "Programacion_ad141632"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Programacion_ad141632"
+        },
+        {
+            "type": "java",
+            "name": "funcion",
+            "request": "launch",
+            "mainClass": "funcion",
+            "projectName": "Programacion_ad141632"
+        },
+        {
+            "type": "java",
+            "name": "anagrama",
+            "request": "launch",
+            "mainClass": "anagrama",
+            "projectName": "Programacion_ad141632"
+        },
+        {
+            "type": "java",
+            "name": "Anagrama",
+            "request": "launch",
+            "mainClass": "Anagrama",
+            "projectName": "Programacion_ad141632"
+        },
+        {
+            "type": "java",
+            "name": "EjemploBufferSolucion",
+            "request": "launch",
+            "mainClass": "EjemploBufferSolucion",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "EjemploBuffer",
+            "request": "launch",
+            "mainClass": "EjemploBuffer",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "ArraysII",
+            "request": "launch",
+            "mainClass": "ArraysII",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "CuentaBancaria",
+            "request": "launch",
+            "mainClass": "CuentaBancaria",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "DescuentoTienda",
+            "request": "launch",
+            "mainClass": "DescuentoTienda",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "InventarioTienda",
+            "request": "launch",
+            "mainClass": "InventarioTienda",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "MatrixCalculator",
+            "request": "launch",
+            "mainClass": "MatrixCalculator",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "Matriz",
+            "request": "launch",
+            "mainClass": "Matriz",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "MayorDeTres",
+            "request": "launch",
+            "mainClass": "MayorDeTres",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "Media",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "MenuCalculadora",
+            "request": "launch",
+            "mainClass": "MenuCalculadora",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "Pares",
+            "request": "launch",
+            "mainClass": "Pares",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "TablaMult",
+            "request": "launch",
+            "mainClass": "TablaMult",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "constantes",
+            "request": "launch",
+            "mainClass": "constantes",
+            "projectName": "Programacion_c6e3de84"
+        },
+        {
+            "type": "java",
+            "name": "datos",
+            "request": "launch",
+            "mainClass": "datos",
+            "projectName": "Programacion_c6e3de84"
+        }
+    ]
+}
